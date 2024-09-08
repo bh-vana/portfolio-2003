@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Full Stack developer",
+    "organisation": "",
+    "startDate": "April, 2024",
+    "endDate": "June, 2024",
+    "experiences": ["Participated in the full software development lifecycle, from requirement analysis to deployment.", 
+    "Built an Application using Node.js and Express.js, ensuring secure and effcient data handling.",
+    "Contributed to a smart materials project, reducing material costs through intelligent price comparisons."
+  ],
+    "imageSrc": "history/symb.png"
+  },
+  {
+    "role": "Web developer",
+    "organisation": "Azure Skynet",
+    "startDate": "April, 2023",
+    "endDate": "july, 2023",
+    "experiences": [
+      "Collaborated with design and product teams to develop responsive web applications using HTML,CSS,JS,React.js",
+     "Implemented user-friendly features and optimized performance across multiple devices."],
+    "imageSrc": "history/azure.png"
+  },
+  {
+    "role": "Product tester",
+    "organisation": "Chatwise",
+    "startDate": "May, 2023",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      " I meticulously examined every feature of the app to ensure it worked as intended. This involved manual testing to identify and report any bugs or issues affecting performance or reliability.",
+    " I gathered feedback from users and analyzed their interactions with the app to understand their needs and pain points. This process involved usability testing to determine how intuitive and user-friendly the app was."],
+      "imageSrc": "history/chatwise.jpg"
+  }
+]

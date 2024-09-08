@@ -1,0 +1,26 @@
+[
+  {
+    "title": "PayrollPrint",
+    "imageSrc": "projects/project.png",
+    "description": "This project extracts data from an Excel sheet and generates a payslips for the employes with a single click.",
+    "skills": ["Ejs", "Express", "Node"],
+    
+    "source": "https://github.com/bh-vana/paySlip"
+  },
+  {
+    "title": "Secure Store",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to Protect files by ensuring only authorized individuals can access them through password protection",
+    "skills": ["React", "Express", "Node", "Mongodb"],
+   
+    "source": "https://github.com/bh-vana/SecureStore"
+  },
+  {
+    "title": "News Reader",
+    "imageSrc": "projects/project.png",
+    "description": "This project is designed to learn React by fetching data from a news API and developing related functionalities.",
+    "skills": ["React", "CSS", "HTML"],
+    
+    "source": "https://github.com/bh-vana/NEWSZ"
+  }
+]
